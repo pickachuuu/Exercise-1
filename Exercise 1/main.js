@@ -1,2 +1,2 @@
 const user = "Berbo"
-console.log(`hello ${user}`)
+console.log(`Hello Berbs`)
